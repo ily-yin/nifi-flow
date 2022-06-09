@@ -9729,6 +9729,7 @@
           "dbdriver" : "com.microsoft.sqlserver.jdbc.SQLServerDriver",
           "dbdriverpath" : "D:\\Work\\softwares\\Microsoft JDBC Driver 6.4 for SQL Server\\sqljdbc_6.4\\chs\\mssql-jdbc-6.4.0.jre7.jar",
           "ftp_pwd" : "4sQuad0!",
+          "test" : "test",
           "Output_Batch_Size" : "10000",
           "int_type" : "4",
           "varchar_type" : "12",
