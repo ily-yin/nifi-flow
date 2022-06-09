@@ -2,6 +2,9 @@ flows:
   232bff99-e504-4818-9212-9b2acbf57e0f: {ver: 3, file: GitFlow.snapshot, comments: Variable
       Added to Process Group, author: anonymous, created: 1654745498039, flowName: GitFlow,
     flowDesc: ''}
+  8b0c1c08-3ebe-49c5-adf3-53253e8b49e2: {ver: 1, file: error_report.snapshot, comments: '',
+    author: anonymous, created: 1654745569273, flowName: error_report, flowDesc: git
+      flow}
   4fdbef52-3c35-47ca-a21e-68b9fd4bc1ce: {ver: 2, file: FileSystem.snapshot, comments: change
       position, author: anonymous, created: 1654744428455, flowName: FileSystem, flowDesc: ''}
 layoutVer: 1
