@@ -1,6 +1,6 @@
 flows:
-  232bff99-e504-4818-9212-9b2acbf57e0f: {ver: 1, file: GitFlow.snapshot, comments: '',
-    author: anonymous, created: 1654744517581, flowName: GitFlow, flowDesc: ''}
+  232bff99-e504-4818-9212-9b2acbf57e0f: {ver: 2, file: GitFlow.snapshot, comments: change
+      test, author: anonymous, created: 1654744996122, flowName: GitFlow, flowDesc: ''}
   4fdbef52-3c35-47ca-a21e-68b9fd4bc1ce: {ver: 2, file: FileSystem.snapshot, comments: change
       position, author: anonymous, created: 1654744428455, flowName: FileSystem, flowDesc: ''}
 layoutVer: 1
